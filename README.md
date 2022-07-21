@@ -9,6 +9,9 @@ Skills:  REACT / JS / HTML / CSS/ Bootstrap
 - 💬 Ask me about Coding 
 - 📫 How to reach me: https://github.com/NATASHA-ct/MY-PORTFOLIO/blob/master/linkedin.com/in/natasha-chirombe-1531aa17b 
 
+![sb-blog-programming](https://user-images.githubusercontent.com/106079814/180174201-0437a2ab-dc83-47b3-a11b-5f0a834b9755.png)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NATASHA-ct)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Natasha Chirombe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@NatashaChirombe)  
 
