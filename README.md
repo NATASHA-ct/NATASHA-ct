@@ -2,7 +2,7 @@
 #### I am a Full-Stack Developer | Software Engineer
 A motivated software engineer(full-stack developer) with a drive to learn and make a positive impact in the world.(HTML , CSS , jAVASCRIPT, Bootstrap. ✔️
 
-Skills:  REACT / JS / HTML / CSS/ Bootstrap
+Skills:  REACT / JavaScript / HTML / CSS/ Bootstrap
 
 - 🔭 I’m currently working on Web-development projects 
 - 🌱 I’m currently learning @MICROVERSE 
