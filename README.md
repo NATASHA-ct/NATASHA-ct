@@ -9,17 +9,12 @@ Skills:  REACT / JavaScript / HTML / CSS/ Bootstrap
 - 💬 Ask me about Coding 
 
 - 📫 How to reach me: 
-  #### Github:https://github.com/NATASHA-ct/
-  #### LinkedIn:linkedin.com/in/natasha-chirombe-1531aa17b 
+  #### Github: https://github.com/NATASHA-ct/
+  #### LinkedIn: linkedin.com/in/natasha-chirombe-1531aa17b 
   #### Email: chirombenatashatatenda@gmail.com 
 
 ![sb-blog-programming](https://user-images.githubusercontent.com/106079814/180174201-0437a2ab-dc83-47b3-a11b-5f0a834b9755.png)
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NATASHA-ct)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Natasha Chirombe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@NatashaChirombe)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NATASHA-ct)](https://github.com/ryo-ma/github-profile-trophy)
 
