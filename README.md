@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Natasha Tatenda Chirombe
 #### I am a Full-Stack Developer | Software Engineer
-A motivated software engineer(full-stack developer) with a drive to learn and make a positive impact in the world.(HTML , CSS , jAVASCRIPT, Bootstrap. ✔️
+A motivated software engineer(full-stack developer) with a drive to learn and make a positive impact in the world.(HTML , CSS , JavaScript, Bootstrap. ✔️
 
 Skills:  REACT / JavaScript / HTML / CSS/ Bootstrap
 
