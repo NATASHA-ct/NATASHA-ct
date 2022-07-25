@@ -18,9 +18,13 @@ Skills:  REACT / JavaScript / HTML / CSS/ Bootstrap
 ![sb-blog-programming](https://user-images.githubusercontent.com/106079814/180174201-0437a2ab-dc83-47b3-a11b-5f0a834b9755.png)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NATASHA-ct)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NATASHA-ct)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+ ##                                                   GITHUB STATS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NATASHA-ct&show_icons=true&count_private=true)  
 
