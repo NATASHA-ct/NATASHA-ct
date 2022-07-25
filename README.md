@@ -7,7 +7,11 @@ Skills:  REACT / JavaScript / HTML / CSS/ Bootstrap
 - 🔭 I’m currently working on Web-development projects 
 - 🌱 I’m currently learning @MICROVERSE 
 - 💬 Ask me about Coding 
-- 📫 How to reach me: https://github.com/NATASHA-ct/MY-PORTFOLIO/blob/master/linkedin.com/in/natasha-chirombe-1531aa17b 
+
+- 📫 How to reach me: 
+  #### Github:https://github.com/NATASHA-ct/
+  #### LinkedIn:linkedin.com/in/natasha-chirombe-1531aa17b 
+  #### Email: chirombenatashatatenda@gmail.com 
 
 ![sb-blog-programming](https://user-images.githubusercontent.com/106079814/180174201-0437a2ab-dc83-47b3-a11b-5f0a834b9755.png)
 
