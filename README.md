@@ -2,18 +2,19 @@
 ## I am a Full-Stack Developer | Software Engineer
 ### Currently available for work
 
-A motivated software engineer(full-stack developer) with a drive to learn and make a positive impact in the world.(HTML , CSS , JavaScript, Bootstrap. ✔️
+A motivated software engineer(full-stack developer) with a drive to learn and make a positive impact in the world. ✔️
+  - 🔭 I’m currently working on Web-development projects 
+  - 🌱 I’m currently learning @MICROVERSE 
+  - 💬 Ask me about Coding 
 
-Skills:  
+
+## Skills:  
  - Front-end Technologies: JavaScript (ES6), React, Redux, Webpack, Figma, Bootstrap, SASS, HTML & CSS
  - Backend Technologies: Databases, SQL, Postgresql, Ruby on Rails, Rest API, Rspec Testing
  - Tools & Methods: Git, GitHub, Gitflow, WordPress, Elementor, Joomla, Heroku, Netlify, Render
                      Mobile/Responsive -Development, Chrome Dev Tool
  - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring                                          
 
-- 🔭 I’m currently working on Web-development projects 
-- 🌱 I’m currently learning @MICROVERSE 
-- 💬 Ask me about Coding 
 
 - 📫 How to reach me: 
   #### Github: https://github.com/NATASHA-ct/
