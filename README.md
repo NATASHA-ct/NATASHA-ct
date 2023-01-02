@@ -20,6 +20,8 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
   #### Github: https://github.com/NATASHA-ct/
   #### LinkedIn: linkedin.com/in/natasha-chirombe-1531aa17b 
   #### Email: chirombenatashatatenda@gmail.com 
+  
+  
 
 ![sb-blog-programming](https://user-images.githubusercontent.com/106079814/180174201-0437a2ab-dc83-47b3-a11b-5f0a834b9755.png)
 
@@ -31,12 +33,6 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
 
 
  ##                                                   GITHUB STATS
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NATASHA-ct&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NATASHA-ct)  
-
-![GitHub metrics](https://metrics.lecoq.io/NATASHA-ct)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NATASHA-ct)  
 
