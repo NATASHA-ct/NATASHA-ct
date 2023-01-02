@@ -15,7 +15,7 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
                      Mobile/Responsive -Development, Chrome Dev Tool
  - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring                                          
 
-
+## Contact me:
 - 📫 How to reach me: 
   #### Github: https://github.com/NATASHA-ct/
   #### LinkedIn: linkedin.com/in/natasha-chirombe-1531aa17b 
