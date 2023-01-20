@@ -13,7 +13,7 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
  - Backend Technologies: Databases, SQL, Postgresql, Ruby on Rails, Rest API, Rspec Testing
  - Tools & Methods: Git, GitHub, Gitflow, WordPress, Elementor, Joomla, Heroku, Netlify, Render
                      Mobile/Responsive -Development, Chrome Dev Tool
- - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring                                          
+ - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring, Project management                                     
 
 ## Contact me:
 - 📫 How to reach me: 
