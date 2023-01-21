@@ -20,7 +20,7 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
   #### Github: https://github.com/NATASHA-ct/
   #### LinkedIn: https://www.linkedin.com/in/natashatatendachirombe/
   #### Email: chirombenatashatatenda@gmail.com 
-  #### Portfolio: https://portfolio-natashachirombe.vercel.app/
+  #### Portfolio: https://portfolio-natashachirombe-sooty.vercel.app/
   
   
 
