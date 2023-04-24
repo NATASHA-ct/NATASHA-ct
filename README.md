@@ -4,7 +4,7 @@
 
 A motivated software engineer(full-stack developer) with a drive to learn and make a positive impact in the world. ✔️
   - 🔭 I’m currently working on Web-development projects 
-  - 🌱 I’m currently learning @MICROVERSE 
+  - 🌱Graduated from @MICROVERSE and Near East University
   - 💬 Ask me about Coding 
 
 
